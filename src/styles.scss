@@ -1,0 +1,23 @@
+.css-16awh2u-MuiAutocomplete-root .MuiOutlinedInput-root {
+  padding: 3px !important;
+}
+
+.css-yfcjng-MuiButtonBase-root-MuiBottomNavigationAction-root.Mui-selected {
+  color: #ffffff !important;
+}
+.global-card {
+  margin-top: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  padding: 15px;
+  height: 100%;
+  .product-image {
+    width: 55px;
+    height: 55px;
+    background-size: cover;
+  }
+  .havent-product {
+    color: darkred;
+    margin: 20px 430%;
+  }
+}
